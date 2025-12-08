@@ -1,0 +1,17 @@
+{
+  "current_job": null,
+  "jobs": {
+    "283937e3-96c5-4893-be88-c1fec2f2a92b": {
+      "status": "completed",
+      "started_at": "2025-12-05T10:36:14.132268",
+      "completed_at": "2025-12-05T10:37:12.852432",
+      "total": 62
+    },
+    "69da614b-8a7f-4223-a697-efff257d7e06": {
+      "status": "completed",
+      "started_at": "2025-12-05T13:52:20.901832",
+      "completed_at": "2025-12-05T13:53:20.312916",
+      "total": 63
+    }
+  }
+}
